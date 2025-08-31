@@ -55,7 +55,6 @@ Ideal para quienes valoran la experiencia de usuario, privacidad y velocidad.
 ¿Tienes dudas, sugerencias o encontraste un error?
 
 - 🌐 Sitio web: [https://Solvexbot.com](https://bots-twitch.web.app/)
-- 📧 Correo: contacto@tusitio.com
 - 🛠️ Comunidad de soporte: [Discord de SOLVEXBOT](Fernando_s)
 
 ---
