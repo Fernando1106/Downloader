@@ -68,3 +68,19 @@ Ideal para quienes valoran la experiencia de usuario, privacidad y velocidad.
 Descúbrelas todas en: [https://Solvexbot.com](https://bots-twitch.web.app/)
 
 ---
+
+## ❤️ Apóyame
+
+Si te gustó este proyecto, puedes:
+
+- Darle una ⭐ en GitHub  
+- Compartirlo con otros streamers  
+- [Invitarme un café](https://paypal.me/FSalinasAyala) ☕  
+
+---
+## Licencia
+
+> Este proyecto es parte del ecosistema de herramientas **SOLVEXBOT**.
+
+MIT © [Fernando S.](https://www.twitch.tv/fernando_s16)
+---
