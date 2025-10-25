@@ -1,6 +1,6 @@
-# 🎬 YouTube Downloader - SOLVEXBOT
+# 🎬 Downloader - SOLVEXBOT
 
-**YouTube Downloader de SOLVEXBOT** es una herramienta intuitiva, rápida y libre de publicidad que permite **descargar videos y audios de YouTube** en formatos MP4 y MP3 desde una aplicación de escritorio o una versión web ligera. Pensado para creadores de contenido, streamers y usuarios que desean tener acceso offline a sus videos favoritos, forma parte del ecosistema de herramientas de SOLVEXBOT.
+**Downloader de SOLVEXBOT** es una herramienta intuitiva, rápida y libre de publicidad que permite **descargar videos y audios de cualquier Plataforma** en formatos MP4 y MP3 desde una aplicación de escritorio o una versión web ligera. Pensado para creadores de contenido, streamers y usuarios que desean tener acceso offline a sus videos favoritos, forma parte del ecosistema de herramientas de SOLVEXBOT.
 
 ---
 
@@ -21,7 +21,7 @@
 
 ### 🔧 Opción 1: Aplicación de Escritorio (.exe)
 
-1. Descarga el archivo desde la [página oficial](https://bots-twitch.web.app/).
+1. Descarga el archivo desde la [página oficial](https://herramientas-streams.web.app/).
 2. Ejecuta el instalador o abre directamente el `.exe`.
 3. Pega la URL del video de YouTube.
 4. Selecciona el formato (MP4 o MP3).
@@ -54,7 +54,7 @@ Ideal para quienes valoran la experiencia de usuario, privacidad y velocidad.
 
 ¿Tienes dudas, sugerencias o encontraste un error?
 
-- 🌐 Sitio web: [https://Solvexbot.com](https://bots-twitch.web.app/)
+- 🌐 Sitio web: [https://Solvexbot.com](https://herramientas-streams.web.app/)
 - 🛠️ Comunidad de soporte: [Discord de SOLVEXBOT](Fernando_s)
 
 ---
@@ -65,7 +65,7 @@ Ideal para quienes valoran la experiencia de usuario, privacidad y velocidad.
 - ⏱️ Timer interactivo con monedas y subs
 - 🤖 Bot de Twitch con comandos personalizables
 
-Descúbrelas todas en: [https://Solvexbot.com](https://bots-twitch.web.app/)
+Descúbrelas todas en: [https://Solvexbot.com](https://herramientas-streams.web.app/)
 
 ---
 
